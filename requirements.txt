@@ -1,0 +1,11 @@
+streamlit
+transformers
+sentence-transformers
+faiss-cpu
+rank_bm25
+torch
+pandas
+accelerate
+fpdf
+sentencepiece
+datasets
